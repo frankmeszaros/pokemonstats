@@ -6,7 +6,7 @@ This is a small react project that pulls data from the [PokéAPI](https://pokeap
 
 ### Version 1 Snapshot
 
-_add snapshot here_
+![Version 1 of comparison](public/v1.png 'Version 1')
 
 ### Running this
 
