@@ -4,6 +4,10 @@ This is a small react project that pulls data from the [PokéAPI](https://pokeap
 
 -- Special thanks to PokéAPI for their [Node.JS](https://github.com/PokeAPI/pokedex-promise-v2) API.
 
+### Version 1 Snapshot
+
+_add snapshot here_
+
 ### Running this
 
 `$ cd pokestats`
