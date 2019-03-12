@@ -7,5 +7,6 @@ This is a small react project that pulls data from the [PokéAPI](https://pokeap
 ### Running this
 
 `$ cd pokestats`
-`yarn install`
+`yarn install` [Don't have yarn? Install here!](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+
 `yarn start`
